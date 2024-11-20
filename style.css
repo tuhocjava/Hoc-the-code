@@ -22,3 +22,11 @@ a {
 b {
   color: red;
 }
+pre {
+  border: 2px solid red;
+  padding: 15px;
+}
+code {
+  width: 100%;
+  text-wrap: wrap;
+}
